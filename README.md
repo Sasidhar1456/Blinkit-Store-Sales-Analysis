@@ -3,6 +3,9 @@
 
 ---
 
+## 📌 Dashboard
+![Alt Text](https://github.com/Sasidhar1456/Blinkit-Store-Sales-Analysis/blob/f36d39459b3dcfee47fb651ca276b574f2b337a8/BlinkIt%20.png)
+
 ## 📌 Overview  
 
 This case study analyzes Blinkit's store-level sales and operational performance to uncover revenue drivers, category trends, and outlet-level efficiencies.
