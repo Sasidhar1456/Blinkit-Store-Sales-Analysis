@@ -1,4 +1,4 @@
-# 🛒 Blinkit Sales & Operations Performance Analysis  
+# Blinkit Sales & Operations Performance Analysis  
 ### Case Study | Data-Driven Business Intelligence  
 
 ---
@@ -13,9 +13,13 @@
 
 - **Blinkit_Case_Study_Presentation.pptx**  
   Presents key insights, observations, and business recommendations derived from the analysis.
+  
+---
 
 ## Dashboard
 ![Alt Text](https://github.com/Sasidhar1456/Blinkit-Store-Sales-Analysis/blob/f36d39459b3dcfee47fb651ca276b574f2b337a8/BlinkIt%20.png)
+
+---
 
 ## Overview  
 
