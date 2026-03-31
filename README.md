@@ -3,10 +3,21 @@
 
 ---
 
-## 📌 Dashboard
+## Project Structure
+
+- **BlinkIT Data Analysis.xlsx**  
+  Contains the dataset used for analysis.
+
+- **BlinkIt Dashboard.pbix**  
+  Includes the Power BI dashboard for visualizing key metrics and insights.
+
+- **Blinkit_Case_Study_Presentation.pptx**  
+  Presents key insights, observations, and business recommendations derived from the analysis.
+
+## Dashboard
 ![Alt Text](https://github.com/Sasidhar1456/Blinkit-Store-Sales-Analysis/blob/f36d39459b3dcfee47fb651ca276b574f2b337a8/BlinkIt%20.png)
 
-## 📌 Overview  
+## Overview  
 
 This case study analyzes Blinkit's store-level sales and operational performance to uncover revenue drivers, category trends, and outlet-level efficiencies.
 
@@ -16,7 +27,7 @@ The objective of this project was to transform raw retail data into structured b
 
 ---
 
-## 🎯 Problem Statement  
+## Problem Statement  
 
 Blinkit operates in a competitive, high-velocity retail ecosystem.
 
@@ -29,7 +40,7 @@ Key challenges include:
 
 ---
 
-## 🎯 Business Objectives  
+## Business Objectives  
 
 - Understand overall sales and order trends  
 - Analyze business performance based on fat percentage categories  
@@ -39,16 +50,16 @@ Key challenges include:
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
-- 💰 **Total Sales**
-- 📈 **Average Sales**
-- 📦 **Number of Items Sold**
-- ⭐ **Average Customer Rating**
+- **Total Sales**
+- **Average Sales**
+- **Number of Items Sold**
+- **Average Customer Rating**
 
 ---
 
-## 🧹 Data Preparation  
+## Data Preparation  
 
 The dataset was:
 
@@ -59,7 +70,7 @@ The dataset was:
 
 ---
 
-## 📈 Dashboard & Reporting  
+## Dashboard & Reporting  
 
 The Power BI dashboard presents:
 
@@ -74,7 +85,7 @@ The dashboard was designed following executive-level visualization best practice
 
 ---
 
-## 🔍 Key Observations  
+## Key Observations  
 
 - **Low Fat products generate higher sales** compared to Regular Fat products  
 - **Fruits & Vegetables** show the highest performance  
@@ -85,9 +96,9 @@ The dashboard was designed following executive-level visualization best practice
 
 ---
 
-## 🚀 Strategic Insights  
+## Strategic Insights  
 
-### ✅ Quick Wins  
+### Quick Wins  
 
 - Increase visibility and availability of low-fat products  
 - Focus promotions and inventory on Fruits & Vegetables  
@@ -98,7 +109,7 @@ The dashboard was designed following executive-level visualization best practice
 
 ---
 
-### 📈 Long-Term Strategy  
+### Long-Term Strategy  
 
 - Develop a health-focused product strategy  
 - Rationalize underperforming categories like Sea Foods  
@@ -110,7 +121,7 @@ The dashboard was designed following executive-level visualization best practice
 
 
 
-## 💡 Business Impact  
+## Business Impact  
 
 This case study demonstrates the ability to:
 
@@ -121,7 +132,7 @@ This case study demonstrates the ability to:
 
 ---
 
-## 🏁 Conclusion  
+## Conclusion  
 
 This project highlights analytical thinking, structured reporting, and business storytelling capabilities.
 
